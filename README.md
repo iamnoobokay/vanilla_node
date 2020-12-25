@@ -1,6 +1,5 @@
 # vanilla_node
 
-# project_management_system
 A simple vanilla node crud api. No express used
 
 Features: <br />
